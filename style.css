@@ -52,3 +52,17 @@ nav ul li a {
   color: #fff;
   cursor: pointer;
 }
+.header {
+  background-color: linear-gradient(45deg, #2193b0, #6dd5ed);
+}
+.title {
+  text-align: center;
+  font-size: large;
+  color: #4A0E50;
+  font: serif;
+}
+.title-description{
+  text-align:center;
+  font-size: small;
+  font:monospace;
+}
